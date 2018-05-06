@@ -42,4 +42,9 @@ $(function() {
         );
     });
 
+    $("#clear").on('click', function(event) {
+        event.preventDefault();
+        $(".bur-dev").empty();
+    })
+
 });

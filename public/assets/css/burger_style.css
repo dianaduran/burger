@@ -13,3 +13,36 @@ body {
 li {
     list-style: none
 }
+
+.btn-lg {
+    margin: 10px;
+    width: 80%
+}
+
+h2 {
+    font-size: 40px !important;
+    text-align: center;
+    color: white !important;
+    font-family: 'Gugi', cursive !important;
+}
+
+.text-footer {
+    position: fixed;
+    bottom: 20px;
+    width: 100%
+}
+
+.input-group {
+    display: -webkit-box !important;
+    margin-right: 92px;
+}
+
+.class-alt {
+    height: 56px !important;
+}
+
+button[type=submit] {
+    font-size: 29px;
+    background-color: red;
+    color: white
+}
